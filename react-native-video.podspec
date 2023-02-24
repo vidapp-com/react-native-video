@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.author         = package['author']
   s.homepage       = 'https://github.com/react-native-community/react-native-video'
-  s.source       = { :git => "https://github.com/vidapp-com/react-native-video.git", :tag => "5.1.2" }
+  s.source       = { :git => "https://github.com/vidapp-com/react-native-video.git", :tag => "5.1.3" }
 
   s.ios.deployment_target = "8.0"
   s.tvos.deployment_target = "9.0"
